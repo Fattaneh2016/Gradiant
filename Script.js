@@ -20,6 +20,10 @@ function initializa(){
     canvas.fillStyle=grd;
     canvas.fillRect(20,20,150,100);
   //  canvas.fillRect(100, 100, 200, 100);
+
+  //drawing
+
+    //canvas.beginPath();
 }
 
 addEventListener("load", initializa)
